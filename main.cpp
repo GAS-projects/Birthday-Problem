@@ -6,7 +6,6 @@ using namespace std;
 int main(){
   vector<int> birthday;
   int classmates = 0;
-  cout << "グループの人数を入力してください。" << endl;
   cin >> classmates;
   int n = 0;
   double t = 0;
